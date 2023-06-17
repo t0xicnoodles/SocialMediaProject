@@ -13,4 +13,16 @@ Username: user2<br />
 Username: bob<br />
 
 Passwords For All User Accounts: user<br />
+</pre><br />
+
+<h1>URLs</h1>
+<pre>
+<br />
+http://127.0.0.1:8000/ 
+http://127.0.0.1:8000/signin
+http://127.0.0.1:8000/signup
+http://127.0.0.1:8000/settings
+http://127.0.0.1:8000/search
+http://127.0.0.1:8000/logout
+http://127.0.0.1:8000/profile/{username-here}
 </pre>
