@@ -17,7 +17,7 @@ Passwords For All User Accounts: user<br />
 
 <h1>URLs</h1>
 <pre>
-<br />
+
 http://127.0.0.1:8000/ 
 http://127.0.0.1:8000/signin
 http://127.0.0.1:8000/signup
