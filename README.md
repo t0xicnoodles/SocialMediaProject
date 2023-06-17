@@ -1,8 +1,6 @@
 Noodle's Social Media Project<br/>
 <h1>Login Details</h1>
 <pre>
-<br />
-
 Admin Login:<br />
 Username: admin<br />
 Password: 123<br />
