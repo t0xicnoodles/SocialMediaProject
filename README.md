@@ -1,4 +1,4 @@
-Noodle's Social Media Project<br/>
+Noodle's Social Media Project (Back-end project)<br/>
 <h1>Login Details</h1>
 <pre>
 Admin Login:<br />
